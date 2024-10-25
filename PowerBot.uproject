@@ -134,6 +134,10 @@
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "255728979"
